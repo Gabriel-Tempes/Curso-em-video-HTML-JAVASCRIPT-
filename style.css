@@ -17,10 +17,12 @@ main{
 }
 
 .projetos{
+    display: ;
     background-color: white;
     padding: 20px;
     margin-top: 20px;
     border-radius: 10px;
+    grid-row:auto;
 }
 
 a{
